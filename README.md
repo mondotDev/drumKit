@@ -10,3 +10,6 @@ Returning to code after a sizable hiatus. Bottom line is that I keep thinking ab
     - Pulled VS Code from the mothballs and got everything synced
     - Added code base for project
     - Push this thing and start the green square journey
+
+## Day 2
+    - Video and notes for project. Break into code tomorrow
