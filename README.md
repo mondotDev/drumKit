@@ -13,3 +13,6 @@ Returning to code after a sizable hiatus. Bottom line is that I keep thinking ab
 
 ## Day 2
     - Video and notes for project. Break into code tomorrow
+
+## Day 3
+    - Today I got the sound working with the keydown listener. It feels good to see something happening because of code I have written out.
